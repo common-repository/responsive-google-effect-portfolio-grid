@@ -1,0 +1,31 @@
+/* ======================================
+  RESPONSIVE PORTFOLIO GRID ADMIN STYLE
+========================================*/
+
+/* Add Style */
+#rgpg_wrap .inside {
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+    min-width: 255px;
+    position: relative;
+}
+
+#rgpg_wrap table{
+	margin: 24px;
+    width: 96%;
+	font-size: 14px;
+}
+#rgpg_wrap .rgpg-sc{
+    background: none repeat scroll 0 0 #eee;
+    border: 1px solid #ddd;
+    display: block;
+    line-height: 2;
+    padding: 10px;
+	cursor: text;
+}
+
+#rgpg_page .widefat
+{
+	height: 33px !important; 
+}
